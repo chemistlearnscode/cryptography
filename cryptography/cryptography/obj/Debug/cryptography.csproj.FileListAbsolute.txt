@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.FormDES.resources
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.FormMain.resources
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.Properties.Resources.resources
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\cryptography\cryptography\bin\Debug\cryptography.exe.config
+C:\Users\DELL\source\repos\cryptography\cryptography\bin\Debug\cryptography.exe
+C:\Users\DELL\source\repos\cryptography\cryptography\bin\Debug\cryptography.pdb
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.exe
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.pdb
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.FormAES.resources
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.FormRSA.resources
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.FormSHA1.resources
+C:\Users\DELL\source\repos\cryptography\cryptography\obj\Debug\cryptography.FormChat.resources
